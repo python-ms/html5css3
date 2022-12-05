@@ -4,7 +4,7 @@ Aprenda HTML5, CSS3 e SEO de forma simples, prática eobjetiva desenvolvendo pas
 ### Planejamento
 [cetic](https://www.cetic.br/)
 ### Wireframe
-[draw](https://app.diagrama.net/)
+[draw](https://app.diagrams.net/)
 ### Personal desingner
 [matheus da costa](https://matheusdacosta.art.br/)
 ### Tipografia
